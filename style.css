@@ -4,3 +4,15 @@ body {
     margin: 0;
     background-color: rgb(255, 165, 180);
 }
+
+nav {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.mystyle{
+    color: rgb(68, 212, 2)
+}
+
+h5 {
+    color: yellow;
+}
