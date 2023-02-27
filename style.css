@@ -1,5 +1,6 @@
+@import url("node_modules/bootstrap/dist/css/bootstrap.min.css");
+
 body {
     margin: 0;
-    width: 200px;
-    background-color: pink;
+    background-color: rgb(255, 165, 180);
 }

@@ -1,0 +1,27 @@
+{
+  "name": "html-css-project",
+  "version": "1.0.0",
+  "description": "final project of UIB including css and html",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipedbranco/project.git"
+  },
+  "keywords": [
+    "html",
+    "and",
+    "css"
+  ],
+  "author": "Filipe Branco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filipedbranco/project/issues"
+  },
+  "homepage": "https://github.com/filipedbranco/project#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
